@@ -54,7 +54,7 @@
       "pages": [
         "introduction",
         "quickstart",
-        "development"
+        "development",
         "essentials/markdown",
         "essentials/code",
         "essentials/images",
@@ -77,7 +77,6 @@
         "api-reference/endpoint/delete"
       ]
     }
-  ],
+  ]
 
   }
-}
