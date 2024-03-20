@@ -1,5 +1,5 @@
 {
-  "$schema": "https://mintlify.com/schema.json",
+
   "name": "NickSz",
   "logo": {
     "dark": "/logo/dark.svg",
@@ -36,16 +36,6 @@
       "name": "Home",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
     }
   ],
   "navigation": [
