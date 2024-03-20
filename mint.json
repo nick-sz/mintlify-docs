@@ -1,5 +1,6 @@
 {
 
+  
   "name": "NickSz",
   "logo": {
     "dark": "/logo/dark.svg",
@@ -38,7 +39,8 @@
       "url": "https://mintlify.com/docs"
     }
   ],
-  "navigation": [
+
+    "navigation": [
     {
       "group": "Get Started",
       "pages": [
